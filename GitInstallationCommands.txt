@@ -1,0 +1,29 @@
+Step 1: cd ->change direcctory
+
+Step 2: cd /c ->Now ur in c folder
+
+Step 3: create new folder inside c folder
+
+step 4: Enter "ls" command it will list all files under that folder(example "Git" Folder)
+
+step 5: Now provide access rights to git bash 
+	*git config --global user.name "Chikkamath" ->Enter 
+	*git config --global user.email anjan.arun04@gmail.com
+
+Step 6: clone ur reepository
+	git clone https://github.com/Chikkamath007/Chikkamath_repo.git ->enter
+
+Step 7: ls
+
+Step 8:add new file under git folder(Example "gitinstallationprocess.txt")
+
+Step 9:git add gitinstallationprocess.txt
+
+Step 10: Check with "git status"
+
+Step 11: git commit -m "second commit" gitinstallationprocess.txt
+
+step 12: git push -u origin master (windows will ask authentication user name and password)
+
+
+	Thank you
